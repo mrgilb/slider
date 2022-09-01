@@ -7,3 +7,5 @@
 - для кнопок `data-slider="prev"` и `data-slider="next"`
 - чтобы вызвать слайдер нужно создать один экземпляр 
 `const slider = new Slider({node: 'сам слайдер', visibleSlides: 2 (кол-во отображаемых слайдов), auto: true (если нужно автоматическое перемещение слайдов)})`
+
+- демка https://mrgilb.github.io/slider/
